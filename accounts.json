@@ -1,0 +1,62 @@
+[
+  {
+    "Bank": "Faysal Bank",
+    "Title": "Al-Rahman Trading Co.",
+    "acc_no": "4587123900456712",
+    "iban": "PK36FAYS0045871239004567",
+    "id": "1",
+    "currency": "PKR",
+    "purpose": "Business",
+    "logo": "./assets/Faysal_Bank.svg"
+  },
+  {
+    "Bank": "Allied Bank",
+    "Title": "Bilal & Sons Electronics",
+    "acc_no": "7890123456789012",
+    "iban": "PK74ABPA0078901234567890",
+    "id": "2",
+    "currency": "PKR",
+    "purpose": "Business",
+    "logo": "./assets/allied_bank.svg"
+  },
+  {
+    "Bank": "JazzCash",
+    "Title": "Ayesha Fatima",
+    "acc_no": "03211234567",
+    "iban": "PK15JCMA0412900321123456",
+    "id": "3",
+    "currency": "PKR",
+    "purpose": "Mobile Wallet",
+    "logo": "./assets/jazzcash.svg"
+  },
+  {
+    "Bank": "HBL",
+    "Title": "Mohammad Asif",
+    "acc_no": "12345678901234",
+    "iban": "PK92HABB0012345678901234",
+    "id": "4",
+    "currency": "PKR",
+    "purpose": "Personal",
+    "logo": "./assets/hbl.svg"
+  },
+  {
+    "Bank": "MCB",
+    "Title": "Fatima Noor",
+    "acc_no": "5678901234567890",
+    "iban": "PK58MUCB0056789012345678",
+    "id": "5",
+    "currency": "PKR",
+    "purpose": "Personal",
+    "logo": "./assets/mcb.svg"
+  },
+  {
+    "Bank": "Meezan Bank",
+    "Title": "Al-Madina Textile Mart",
+    "acc_no": "24681357901357",
+    "iban": "PK83MEZN0024681357901357",
+    "id": "6",
+    "currency": "PKR",
+    "purpose": "Business",
+    "logo": "./assets/meezan_bank.svg"
+  }
+]
